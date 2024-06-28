@@ -9,7 +9,7 @@ Semester: Fall 2024 (August 19 – December 13)
 
 <a href="docs/Lectures/CS_488_588-Applied_Data_Science_with_Python-Syllabus.pdf">Course Syllabus</a>
 
-*Course website*: <https://fall-2024-applied-data-science-with_python.readthedocs.io/en/latest/>
+*Course website*: <https://fall-2024-applied-data-science-with-python.readthedocs.io/en/latest/>
 
 *GitHub repository*: <https://github.com/avakanski/Fall-2024-Applied-Data-Science-with-Python/blob/main/README.md>
 
