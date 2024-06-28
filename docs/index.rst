@@ -10,7 +10,7 @@ CS 488/588 – Applied Data Science with Python
 
 Course Syllabus
 ~~~~~~~~~~~~~~~~~~~~~
-`View Syllabus <_static/CS_488_588-Applied_Data_Science_with_Python-Syllabus.pd>`_
+`View Syllabus <_static/CS_488_588-Applied_Data_Science_with_Python-Syllabus.pdf>`_
 
 Course Description
 ~~~~~~~~~~~~~~~~~~~~~
