@@ -11,7 +11,7 @@ Semester: Fall 2024 (August 19 – December 13)
 
 *Course website*: <https://fall-2024-applied-data-science-with_python.readthedocs.io/en/latest/>
 
-*GitHub repository*: <https://github.com/avakanski/Fall-2024-Applied-Data-Science-with_Python/README.md>
+*GitHub repository*: <https://github.com/avakanski/Fall-2024-Applied-Data-Science-with_Python/blob/main/README.md>
 
 ## Lectures:
 * Lecture 1 - A Short History and Current State of Artificial Intelligence
