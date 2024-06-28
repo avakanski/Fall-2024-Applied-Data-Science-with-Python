@@ -1,0 +1,58 @@
+CS 488/588 – Applied Data Science with Python
+==================================================================
+
+| `University of Idaho <https://www.uidaho.edu>`_ - `Department of Computer Science <https://www.uidaho.edu/engr/departments/cs>`_
+| Instructor: `Alex Vakanski <https://www.webpages.uidaho.edu/vakanski/index.html>`_ (vakanski@uidaho.edu)
+| Teaching Assistant: to be announced
+| Semester: Fall 2024 (August 19 – December 13)
+| *Course website*: https://fall-2024-applied-data-science-with_python.readthedocs.io/en/latest/
+| *GitHub repository*: https://www.github.com/avakanski/Fall-2024-Applied-Data-Science-with_Python/blob/main/README.md
+
+Course Syllabus
+~~~~~~~~~~~~~~~~~~~~~
+`View Syllabus <_static/CS_488_588-Applied_Data_Science_with_Python-Syllabus.pd>`_
+
+Course Description
+~~~~~~~~~~~~~~~~~~~~~
+| The course introduces students to Python tools and libraries that are commonly used by organizations for managing the various phases in the life cycle of data science projects. The content is divided into four main themes. The first theme reviews the fundamentals of Python programming. The second theme focuses on data engineering and explores Python tools for data collection, exploration, and visualization. The next theme covers model engineering and includes topics related to model design, selection, and evaluation for image processing, natural language processing, and time series analysis. The last theme introduces Data Science Operations (DSOps) and encompasses techniques for model serving, performance monitoring, diagnosis, and reproducibility of data science projects deployed in production. Throughout the course, students will gain hands-on experience with various Python libraries for data science workflow management. Additional work is required for graduate credit.
+
+
+Textbooks
+~~~~~~~~~~~~
+There are no required textbooks for this course.
+
+Learning Outcomes
+~~~~~~~~~~~~~~~~~~~
+
+Upon the completion of the course, the students should demonstrate the ability to:
+
+1.	Attain proficiency with commonly used Python frameworks for managing the life cycle of data science projects.
+2.	Develop pipelines for integrating data from multiple sources, designing predictive models, and deploying the models.
+3.	Apply Python tools for data collection, analysis, and visualization, such as NumPy, Pandas, Matplotlib, and Seaborn, to real-world datasets.
+4.	Implement machine learning algorithms for image processing, natural language processing, and time series analysis using Python-based frameworks, such as Scikit-Learn, Keras, TensorFlow, and PyTorch.
+5.	Understand the principles of model selection and evaluation, including hyperparameter tuning, cross-validation, and regularization.  
+6.	Understand the primary characteristics of current Python libraries for deployment, continuous integration, and monitoring of data science projects.
+7.	Deploy data science projects as web applications using Flask, FastAPI, and Django, and to cloud servers using Microsoft’s Azure platform.
+
+Prerequisites
+~~~~~~~~~~~~~~~
+The course requires to have basic programming skills in Python. While having knowledge of data science methods would be advantageous, it is not mandatory.
+
+Grading
+~~~~~~~~~~~~
+Student assessment will be based on 6 homework assignments (worth 60 pts), 3 quizzes (worth 30 marks), and class participation and engagement (worth 10 marks).
+
+
+Lectures
+============
+
+
+
+
+  
+
+
+
+
+
+

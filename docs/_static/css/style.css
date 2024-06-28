@@ -1,0 +1,38 @@
+.wy-nav-content {
+	max-width: 1200px !important;
+}
+
+/* Increase margin after code cells */
+div.highlight {
+  margin-bottom: 0px; 
+}
+
+div.output_area.docutils.container {
+  margin-bottom: 0px; 
+}
+
+div.nboutput.nblast.docutils.container {
+  margin-bottom: 16px; 
+}
+
+/* Reduce margin after text cells from 24px to 12px */
+p {
+    line-height: 24px;
+    font-size: 16px;
+    margin: 0 0 12px;
+}
+
+/* Increase margin before headers */
+.rst-content h1, 
+.rst-content h2, 
+.rst-content h3, 
+.rst-content h4, 
+.rst-content h5, 
+.rst-content h6 {
+    margin-top: 1em; 
+}
+
+/* Increase the width of the left panel */
+.wy-nav-side {
+    width: 300px; /* Adjust the width as needed */
+}
