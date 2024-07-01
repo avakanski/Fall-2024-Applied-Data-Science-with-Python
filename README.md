@@ -18,29 +18,29 @@ Semester: Fall 2024 (August 19 – December 13)
 ### Theme 1: Python Programming
 * Lecture 2 - Data Types in Python
 * Lecture 3 - Statements, Files
-* Lecture 4 - Functions, Iterators, Generators
-* Lecture 5 - Object-Oriented Programming
-* Lecture 6 - Exceptions, Modules and Packages
+* Lecture 4 - Functions, Iterators
+* Lecture 5 - Object-Oriented Programming, Modules, Packages
 * Tutorial 1 - Jupyter Notebooks
 * Tutorial 2 - Terminal and Command Line
 * Tutorial 3 - Python IDEs, VS Codes
 ### Theme 2: Data Engineering Pipelines
-* Lecture 7 - NumPy for Array Operations
-* Lecture 8 - Data Manipulation with Pandas
-* Lecture 9 - Data Visualization with Matplotlib
-* Lecture 10 - Databases and SQL
+* Lecture 6 - NumPy for Array Operations
+* Lecture 7 - Data Manipulation with Pandas
+* Lecture 8 - Data Visualization with Matplotlib
+* Lecture 9 - Data Visualization with Seaborn
+* Lecture 10 - Statistical Data Analysis
 * Lecture 11 - Data Exploration and Preprocessing
-* Lecture 12 - Data Visualization with Seaborn
+* Lecture 12 - Databases and SQL
 * Tutorial 4 - Virtual Environments
 * Tutorial 5 - Web Scraping
 * Tutorial 6 - Google Colab
 ### Theme 3: Model Engineering Pipelines
 * Lecture 13 - Scikit-Learn Library for Data Sceince
 * Lecture 14 - Ensemble Methods
-* Lecture 15 - Artificial Neural Networks
+* Lecture 15 - Artificial Neural Networks with Keras and TensorFlow
 * Lecture 16 - Convolutional Neural Networks with Keras and TensorFlow
 * Lecture 17 - Model Selection, Hyperparameter Tuning
-* Lecture 18 - Neural Networks with PyTorch
+* Lecture 18 - Artificial Neural Networks with PyTorch
 * Lecture 19 - Natural Language Processing
 * Lecture 20 - Transformer Networks
 * Lecture 21 - NLP with Hugging Face
