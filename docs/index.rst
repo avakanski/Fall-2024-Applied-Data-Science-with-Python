@@ -45,7 +45,7 @@ Student assessment will be based on 6 homework assignments (worth 60 pts), 3 qui
 
 Lectures
 ============
-
+The lectures will be added during the Fall 2024 semester after they are covered in the course.
 
 
 
