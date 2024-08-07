@@ -3,8 +3,8 @@
 import sphinx_rtd_theme
 
 # -- Project information
-project = 'Fall 2023 Python Programming for Data Science'
-copyright = '2023, Alex Vakanski'
+project = 'Fall 2024 Applied Data Science with Python'
+copyright = '2024, Alex Vakanski'
 author = 'Alex Vakanski'
 
 release = '0.1'
