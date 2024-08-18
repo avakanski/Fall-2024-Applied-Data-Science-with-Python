@@ -16,8 +16,8 @@ Semester: Fall 2024 (August 19 – December 13)
 ## Lectures:
 * <a href="docs/Lectures/Lecture_1-A_Short_History_of_AI/Lecture_1-A_Short_History_of_AI.pdf">Lecture 1 - A Short History and Current State of Artificial Intelligence</a>
 ### Theme 1: Python Programming
-* Lecture 2 - Data Types in Python
-* Lecture 3 - Statements, Files
+* <a href="docs/Lectures/Theme_1-Python_Programming/Lecture_2-Data_Types_in_Python/Lecture_2-Data_Types.ipynb">Lecture 2 - Data Types in Python</a>
+* <a href="docs/Lectures/Theme_1-Python_Programming/Lecture_3-Statements,_Files/Lecture_3-Statements,_Files.ipynb">Lecture 3 - Statements, Files</a>
 * Lecture 4 - Functions, Iterators
 * Lecture 5 - Object-Oriented Programming, Modules, Packages
 * Tutorial 1 - Jupyter Notebooks
