@@ -45,6 +45,12 @@ Student assessment will be based on 6 homework assignments (worth 60 pts), 3 qui
 
 Lectures
 ============
+
+.. toctree::
+   :caption: Lecture 1 - Short History of AI
+
+   pdf_link_lecture1
+
 The lectures will be added during the Fall 2024 semester after they are covered in the course.
 
 
