@@ -14,7 +14,7 @@ Semester: Fall 2024 (August 19 – December 13)
 *GitHub repository*: <https://github.com/avakanski/Fall-2024-Applied-Data-Science-with-Python/blob/main/README.md>
 
 ## Lectures:
-* Lecture 1 - A Short History and Current State of Artificial Intelligence
+* <a href="docs/Lectures/Lecture_1-A_Short_History_of_AI/Lecture_1-A_Short_History_of_AI.pdf">Lecture 1 - A Short History and Current State of Artificial Intelligence</a>
 ### Theme 1: Python Programming
 * Lecture 2 - Data Types in Python
 * Lecture 3 - Statements, Files
