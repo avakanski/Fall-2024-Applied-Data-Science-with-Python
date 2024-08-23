@@ -20,9 +20,6 @@ Semester: Fall 2024 (August 19 – December 13)
 * <a href="docs/Lectures/Theme_1-Python_Programming/Lecture_3-Statements,_Files/Lecture_3-Statements,_Files.ipynb">Lecture 3 - Statements, Files</a>
 * Lecture 4 - Functions, Iterators
 * Lecture 5 - Object-Oriented Programming, Modules, Packages
-* Tutorial 1 - Jupyter Notebooks
-* Tutorial 2 - Terminal and Command Line
-* Tutorial 3 - Python IDEs, VS Codes
 ### Theme 2: Data Engineering Pipelines
 * Lecture 6 - NumPy for Array Operations
 * Lecture 7 - Data Manipulation with Pandas
@@ -31,9 +28,6 @@ Semester: Fall 2024 (August 19 – December 13)
 * Lecture 10 - Statistical Data Analysis
 * Lecture 11 - Data Exploration and Preprocessing
 * Lecture 12 - Databases and SQL
-* Tutorial 4 - Virtual Environments
-* Tutorial 5 - Web Scraping
-* Tutorial 6 - Google Colab
 ### Theme 3: Model Engineering Pipelines
 * Lecture 13 - Scikit-Learn Library for Data Sceince
 * Lecture 14 - Ensemble Methods
@@ -46,17 +40,24 @@ Semester: Fall 2024 (August 19 – December 13)
 * Lecture 21 - NLP with Hugging Face
 * Lecture 22 - Diffusion Models for Text-to-Image Generation
 * Lecture 23 - Large Language Models
-* Tutorial 8 - TensorFlow
-* Tutorial 9 - PyTorch
-* Tutorial 10 - TensorFlow Datasets
-* Tutorial 11 - Experiment Monitoring with CometML
-* Tutorial 12 - GitHub
 ## Theme 4: Model Deployment Pipelines
 * Lecture 24 - Introduction to Data Science Operations (DSOps)
 * Lecture 25 - Deploying Projects as Web Applications
 * Lecture 26 - Deploying Projects to the Cloud
 * Lecture 27 - Reproducible Data Science Projects
-* Tutorial 13 - GitHub Actions
+## Tutorials
+* <a href="docs/Lectures/Tutorials/Tutorial_1-Jupyter_Notebooks/Tutorial_1-Jupyter_Notebooks.ipynb">Tutorial 1 - Jupyter Notebooks</a>
+* Tutorial 2 - Terminal and Command Line
+* Tutorial 3 - Python IDEs, VS Codes
+* Tutorial 4 - Virtual Environments
+* Tutorial 5 - Web Scraping
+* Tutorial 6 - Google Colab
+* Tutorial 7 - TensorFlow
+* Tutorial 8 - PyTorch
+* Tutorial 9 - TensorFlow Datasets
+* Tutorial 10 - Experiment Monitoring with CometML
+* Tutorial 11 - GitHub
+* Tutorial 12 - GitHub Actions
 
 ## Course Description
 The course introduces students to Python tools and libraries that are commonly used by organizations for managing the various phases in the life cycle of data science projects. The content is divided into four main themes. The first theme reviews the fundamentals of Python programming. The second theme focuses on data engineering and explores Python tools for data collection, exploration, and visualization. The next theme covers model engineering and includes topics related to model design, selection, and evaluation for image processing, natural language processing, and time series analysis. The last theme introduces Data Science Operations (DSOps) and encompasses techniques for model serving, performance monitoring, diagnosis, and reproducibility of data science projects deployed in production. Throughout the course, students will gain hands-on experience with various Python libraries for data science workflow management. Additional work is required for graduate credit.
