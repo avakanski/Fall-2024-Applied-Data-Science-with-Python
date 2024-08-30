@@ -47,7 +47,7 @@ Semester: Fall 2024 (August 19 – December 13)
 * Lecture 27 - Reproducible Data Science Projects
 ## Tutorials
 * <a href="docs/Lectures/Tutorials/Tutorial_1-Jupyter_Notebooks/Tutorial_1-Jupyter_Notebooks.ipynb">Tutorial 1 - Jupyter Notebooks</a>
-* Tutorial 2 - Terminal and Command Line
+* <a href="docs/Lectures/Tutorials/Tutorial_2-Terminal_and_Command_Line/Tutorial_2-Terminal_and_Command_Line.ipynb">Terminal and Command Line</a>
 * Tutorial 3 - Python IDEs, VS Codes
 * Tutorial 4 - Virtual Environments
 * Tutorial 5 - Web Scraping
