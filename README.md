@@ -19,7 +19,7 @@ Semester: Fall 2024 (August 19 – December 13)
 * <a href="docs/Lectures/Theme_1-Python_Programming/Lecture_2-Data_Types_in_Python/Lecture_2-Data_Types.ipynb">Lecture 2 - Data Types in Python</a>
 * <a href="docs/Lectures/Theme_1-Python_Programming/Lecture_3-Statements,_Files/Lecture_3-Statements,_Files.ipynb">Lecture 3 - Statements, Files</a>
 * <a href="docs/Lectures/Theme_1-Python_Programming/Lecture_4-Functions,_Iterators/Lecture_4-Functions,_Iterators.ipynb">Lecture 4 - Functions, Iterators</a>
-* Lecture 5 - Object-Oriented Programming, Modules, Packages
+* <a href="docs/Lectures/Theme_1-Python_Programming/Lecture_5-OOP,Modules,Packages/Lecture_5-OOP,Modules,Packages.ipynb">Lecture 5 - Object-Oriented Programming, Modules, Packages</a>
 ### Theme 2: Data Engineering Pipelines
 * Lecture 6 - NumPy for Array Operations
 * Lecture 7 - Data Manipulation with Pandas
