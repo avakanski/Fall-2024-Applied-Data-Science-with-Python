@@ -61,6 +61,13 @@ Lectures
    Lectures/Theme_1-Python_Programming/Lecture_5-OOP,_Modules,_Packages/Lecture_5-OOP,_Modules,_Packages.ipynb
 
 .. toctree::
+   :caption: Theme 2 - Data Engineering Pipelines
+   :maxdepth: 2
+
+   Lectures/Theme_2-Data_Engineering/Lecture_6-NumPy/Lecture_6-NumPy.ipynb
+
+
+.. toctree::
    :caption: Tutorials
    :maxdepth: 2
 
