@@ -21,7 +21,7 @@ Semester: Fall 2024 (August 19 – December 13)
 * <a href="docs/Lectures/Theme_1-Python_Programming/Lecture_4-Functions,_Iterators/Lecture_4-Functions,_Iterators.ipynb">Lecture 4 - Functions, Iterators</a>
 * <a href="docs/Lectures/Theme_1-Python_Programming/Lecture_5-OOP,_Modules,_Packages/Lecture_5-OOP,_Modules,_Packages.ipynb">Lecture 5 - Object-Oriented Programming, Modules, Packages</a>
 ### Theme 2: Data Engineering Pipelines
-* Lecture 6 - NumPy for Array Operations
+* <a href="docs/Lectures/Theme_2-Data_Engineering/Lecture_6-NumPy/Lecture_6-NumPy.ipynb">Lecture 6 - NumPy for Array Operations</a>
 * Lecture 7 - Data Manipulation with Pandas
 * Lecture 8 - Data Visualization with Matplotlib
 * Lecture 9 - Data Visualization with Seaborn
