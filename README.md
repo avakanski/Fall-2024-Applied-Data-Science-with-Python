@@ -48,7 +48,7 @@ Semester: Fall 2024 (August 19 – December 13)
 ## Tutorials
 * <a href="docs/Lectures/Tutorials/Tutorial_1-Jupyter_Notebooks/Tutorial_1-Jupyter_Notebooks.ipynb">Tutorial 1 - Jupyter Notebooks</a>
 * <a href="docs/Lectures/Tutorials/Tutorial_2-Terminal_and_Command_Line/Tutorial_2-Terminal_and_Command_Line.ipynb">Tutorial 2 - Terminal and Command Line</a>
-* Tutorial 3 - Python IDEs, VS Codes
+* <a href="docs/Lectures/Tutorials/Tutorial_3-VS_Code/Tutorial_3-VS_Code.ipynb">Tutorial 3 - Python IDEs, VS Codes</a>
 * Tutorial 4 - Virtual Environments
 * Tutorial 5 - Web Scraping
 * Tutorial 6 - Google Colab
