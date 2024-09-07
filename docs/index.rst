@@ -73,6 +73,7 @@ Lectures
 
    Lectures/Tutorials/Tutorial_1-Jupyter_Notebooks/Tutorial_1-Jupyter_Notebooks.ipynb
    Lectures/Tutorials/Tutorial_2-Terminal_and_Command_Line/Tutorial_2-Terminal_and_Command_Line.ipynb
+   Lectures/Tutorials/Tutorial_3-VS_Code/Tutorial_3-VS_Code.ipynb
 
 The lectures will be added during the Fall 2024 semester after they are covered in the course.
 
