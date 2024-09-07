@@ -65,6 +65,7 @@ Lectures
    :maxdepth: 2
 
    Lectures/Theme_2-Data_Engineering/Lecture_6-NumPy/Lecture_6-NumPy.ipynb
+   Lectures/Theme_2-Data_Engineering/Lecture_7-Pandas/Lecture_7-Pandas.ipynb
 
 
 .. toctree::
