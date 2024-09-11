@@ -23,7 +23,7 @@ Semester: Fall 2024 (August 19 – December 13)
 ### Theme 2: Data Engineering Pipelines
 * <a href="docs/Lectures/Theme_2-Data_Engineering/Lecture_6-NumPy/Lecture_6-NumPy.ipynb">Lecture 6 - NumPy for Array Operations</a>
 * <a href="docs/Lectures/Theme_2-Data_Engineering/Lecture_7-Pandas/Lecture_7-Pandas.ipynb"> Lecture 7 - Data Manipulation with Pandas</a>
-* Lecture 8 - Data Visualization with Matplotlib
+* <a href="docs/Lectures/Theme_2-Data_Engineering/Lecture_8-Matplotlib/Lecture_8-Matplotlib.ipynb"> Lecture 8 - Data Visualization with Matplotlib</a>
 * Lecture 9 - Data Visualization with Seaborn
 * Lecture 10 - Statistical Data Analysis
 * Lecture 11 - Data Exploration and Preprocessing
