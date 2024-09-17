@@ -68,6 +68,7 @@ Lectures
    Lectures/Theme_2-Data_Engineering/Lecture_7-Pandas/Lecture_7-Pandas.ipynb
    Lectures/Theme_2-Data_Engineering/Lecture_8-Matplotlib/Lecture_8-Matplotlib.ipynb
    Lectures/Theme_2-Data_Engineering/Lecture_9-Seaborn/Lecture_9-Seaborn.ipynb
+   Lectures/Theme_2-Data_Engineering/Lecture_10-Statistical_Data_Analysis/Lecture_10-Statistical_Data_Analysis.ipynb
 
 
 .. toctree::
