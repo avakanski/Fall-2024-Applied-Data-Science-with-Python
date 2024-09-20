@@ -50,7 +50,7 @@ Semester: Fall 2024 (August 19 – December 13)
 * <a href="docs/Lectures/Tutorials/Tutorial_2-Terminal_and_Command_Line/Tutorial_2-Terminal_and_Command_Line.ipynb">Tutorial 2 - Terminal and Command Line</a>
 * <a href="docs/Lectures/Tutorials/Tutorial_3-VS_Code/Tutorial_3-VS_Code.ipynb">Tutorial 3 - Python IDEs, VS Codes</a>
 * <a href="docs/Lectures/Tutorials/Tutorial_4-Virtual_Environments/Tutorial_4-Virtual_Environments.ipynb">Tutorial 4 - Virtual Environments</a>
-* Tutorial 5 - Web Scraping
+* <a href="docs/Lectures/Tutorials/Tutorial_5-Web_Scraping/Tutorial_5-Web_Scraping.ipynb">Tutorial 5 - Web Scraping</a>
 * Tutorial 6 - Google Colab
 * Tutorial 7 - TensorFlow
 * Tutorial 8 - PyTorch
