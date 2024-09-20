@@ -26,8 +26,8 @@ Semester: Fall 2024 (August 19 – December 13)
 * <a href="docs/Lectures/Theme_2-Data_Engineering/Lecture_8-Matplotlib/Lecture_8-Matplotlib.ipynb"> Lecture 8 - Data Visualization with Matplotlib</a>
 * <a href="docs/Lectures/Theme_2-Data_Engineering/Lecture_9-Seaborn/Lecture_9-Seaborn.ipynb"> Lecture 9 - Data Visualization with Seaborn</a>
 * <a href="docs/Lectures/Theme_2-Data_Engineering/Lecture_10-Statistical_Data_Analysis/Lecture_10-Statistical_Data_Analysis.ipynb"> Lecture 10 - Statistical Data Analysis</a>
-* Lecture 11 - Data Exploration and Preprocessing
-* Lecture 12 - Databases and SQL
+* <a href="docs/Lectures/Theme_2-Data_Engineering/Lecture_11-SQL/Lecture_11-SQL.ipynb"> Lecture 11 - Databases and SQL</a>
+* Lecture 12 - Data Exploration and Preprocessing
 ### Theme 3: Model Engineering Pipelines
 * Lecture 13 - Scikit-Learn Library for Data Sceince
 * Lecture 14 - Ensemble Methods
