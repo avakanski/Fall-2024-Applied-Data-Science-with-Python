@@ -82,6 +82,7 @@ Lectures
    Lectures/Tutorials/Tutorial_3-VS_Code/Tutorial_3-VS_Code.ipynb
    Lectures/Tutorials/Tutorial_4-Virtual_Environments/Tutorial_4-Virtual_Environments.ipynb
    Lectures/Tutorials/Tutorial_5-Web_Scraping/Tutorial_5-Web_Scraping.ipynb
+   Lectures/Tutorials/Tutorial_6-Google_Colab/Tutorial_6-Google_Colab.ipynb
 
 The lectures will be added during the Fall 2024 semester after they are covered in the course.
 
