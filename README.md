@@ -51,7 +51,7 @@ Semester: Fall 2024 (August 19 – December 13)
 * <a href="docs/Lectures/Tutorials/Tutorial_3-VS_Code/Tutorial_3-VS_Code.ipynb">Tutorial 3 - Python IDEs, VS Codes</a>
 * <a href="docs/Lectures/Tutorials/Tutorial_4-Virtual_Environments/Tutorial_4-Virtual_Environments.ipynb">Tutorial 4 - Virtual Environments</a>
 * <a href="docs/Lectures/Tutorials/Tutorial_5-Web_Scraping/Tutorial_5-Web_Scraping.ipynb">Tutorial 5 - Web Scraping</a>
-* Tutorial 6 - Google Colab
+* <a href="docs/Lectures/Tutorials/Tutorial_6-Google_Colab/Tutorial_6-Google_Colab.ipynb">Tutorial 6 - Google Colab</a>
 * Tutorial 7 - TensorFlow
 * Tutorial 8 - PyTorch
 * Tutorial 9 - TensorFlow Datasets
