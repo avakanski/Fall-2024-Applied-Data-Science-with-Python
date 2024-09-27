@@ -72,6 +72,12 @@ Lectures
    Lectures/Theme_2-Data_Engineering/Lecture_11-SQL/Lecture_11-SQL.ipynb
    Lectures/Theme_2-Data_Engineering/Lecture_12-Data_Exploration/Lecture_12-Data_Exploration_and_Preprocessing.ipynb
 
+.. toctree::
+   :caption: Theme 3 - Model Engineering Pipelines
+   :maxdepth: 2
+
+   Lectures/Theme_3-Model_Engineering/Lecture_13-Scikit-Learn/Lecture_13-Scikit-Learn.ipynb
+
 
 .. toctree::
    :caption: Tutorials
