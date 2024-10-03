@@ -52,12 +52,13 @@ Semester: Fall 2024 (August 19 – December 13)
 * <a href="docs/Lectures/Tutorials/Tutorial_4-Virtual_Environments/Tutorial_4-Virtual_Environments.ipynb">Tutorial 4 - Virtual Environments</a>
 * <a href="docs/Lectures/Tutorials/Tutorial_5-Web_Scraping/Tutorial_5-Web_Scraping.ipynb">Tutorial 5 - Web Scraping</a>
 * <a href="docs/Lectures/Tutorials/Tutorial_6-Google_Colab/Tutorial_6-Google_Colab.ipynb">Tutorial 6 - Google Colab</a>
-* Tutorial 7 - TensorFlow
-* Tutorial 8 - PyTorch
-* Tutorial 9 - TensorFlow Datasets
-* Tutorial 10 - Experiment Monitoring with CometML
-* Tutorial 11 - GitHub
-* Tutorial 12 - GitHub Actions
+* <a href="docs/Lectures/Tutorials/Tutorial_7-Image_Processing/Tutorial_7-Image_Processing.ipynb">Tutorial 7 - Image Processing with Python</a>
+* Tutorial 8 - TensorFlow
+* Tutorial 9 - PyTorch
+* Tutorial 10 - TensorFlow Datasets
+* Tutorial 11 - Experiment Monitoring with CometML
+* Tutorial 12 - GitHub
+* Tutorial 13 - GitHub Actions
 
 ## Course Description
 The course introduces students to Python tools and libraries that are commonly used by organizations for managing the various phases in the life cycle of data science projects. The content is divided into four main themes. The first theme reviews the fundamentals of Python programming. The second theme focuses on data engineering and explores Python tools for data collection, exploration, and visualization. The next theme covers model engineering and includes topics related to model design, selection, and evaluation for image processing, natural language processing, and time series analysis. The last theme introduces Data Science Operations (DSOps) and encompasses techniques for model serving, performance monitoring, diagnosis, and reproducibility of data science projects deployed in production. Throughout the course, students will gain hands-on experience with various Python libraries for data science workflow management. Additional work is required for graduate credit.
