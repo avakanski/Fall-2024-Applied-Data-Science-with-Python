@@ -30,7 +30,7 @@ Semester: Fall 2024 (August 19 – December 13)
 * <a href="docs/Lectures/Theme_2-Data_Engineering/Lecture_12-Data_Exploration/Lecture_12-Data_Exploration_and_Preprocessing.ipynb"> Lecture 12 - Data Exploration and Preprocessing</a>
 ### Theme 3: Model Engineering Pipelines
 * <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_13-Scikit-Learn/Lecture_13-Scikit-Learn.ipynb"> Lecture 13 - Scikit-Learn Library for Data Science</a>
-* Lecture 14 - Ensemble Methods
+* <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_14-Ensemble_Methods/Lecture_14-Ensemble_Methods.ipynb"> Lecture 14 - Ensemble Methods</a>
 * Lecture 15 - Artificial Neural Networks with Keras and TensorFlow
 * Lecture 16 - Convolutional Neural Networks with Keras and TensorFlow
 * Lecture 17 - Model Selection, Hyperparameter Tuning
