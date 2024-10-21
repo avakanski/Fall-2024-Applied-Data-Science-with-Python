@@ -32,7 +32,7 @@ Semester: Fall 2024 (August 19 – December 13)
 * <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_13-Scikit-Learn/Lecture_13-Scikit-Learn.ipynb"> Lecture 13 - Scikit-Learn Library for Data Science</a>
 * <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_14-Ensemble_Methods/Lecture_14-Ensemble_Methods.ipynb"> Lecture 14 - Ensemble Methods</a>
 * <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_15-ANNs/Lecture_15-ANNs.ipynb"> Lecture 15 - Artificial Neural Networks with Keras-TensorFlow</a>
-* Lecture 16 - Convolutional Neural Networks with Keras and TensorFlow
+* <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_16-ConvNets/Lecture_16-ConvNets.ipynb"> Lecture 16 - Convolutional Neural Networks with Keras-TensorFlow</a>
 * Lecture 17 - Model Selection, Hyperparameter Tuning
 * Lecture 18 - Artificial Neural Networks with PyTorch
 * Lecture 19 - Natural Language Processing
