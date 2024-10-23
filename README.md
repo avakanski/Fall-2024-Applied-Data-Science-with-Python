@@ -54,8 +54,8 @@ Semester: Fall 2024 (August 19 – December 13)
 * <a href="docs/Lectures/Tutorials/Tutorial_6-Google_Colab/Tutorial_6-Google_Colab.ipynb">Tutorial 6 - Google Colab</a>
 * <a href="docs/Lectures/Tutorials/Tutorial_7-Image_Processing/Tutorial_7-Image_Processing.ipynb">Tutorial 7 - Image Processing with Python</a>
 * <a href="docs/Lectures/Tutorials/Tutorial_8-TensorFlow/Tutorial_8-TensorFlow.ipynb">Tutorial 8 - TensorFlow</a>
-* Tutorial 9 - PyTorch
-* Tutorial 10 - TensorFlow Datasets
+* <a href="docs/Lectures/Tutorials/Tutorial_9-PyTorch/Tutorial_9-PyTorch.ipynb">Tutorial 9 - PyTorch</a>
+* Tutorial 10 - Introduction to Bash Programming
 * Tutorial 11 - Experiment Monitoring with CometML
 * Tutorial 12 - GitHub
 * Tutorial 13 - GitHub Actions
