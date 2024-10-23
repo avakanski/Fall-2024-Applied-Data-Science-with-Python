@@ -96,6 +96,7 @@ Lectures
    Lectures/Tutorials/Tutorial_6-Google_Colab/Tutorial_6-Google_Colab.ipynb
    Lectures/Tutorials/Tutorial_7-Image_Processing/Tutorial_7-Image_Processing.ipynb
    Lectures/Tutorials/Tutorial_8-TensorFlow/Tutorial_8-TensorFlow.ipynb
+   Lectures/Tutorials/Tutorial_9-PyTorch/Tutorial_9-PyTorch.ipynb
 
 
 The lectures will be added during the Fall 2024 semester after they are covered in the course.
