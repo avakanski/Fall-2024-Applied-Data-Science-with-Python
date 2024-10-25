@@ -34,7 +34,7 @@ Semester: Fall 2024 (August 19 – December 13)
 * <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_15-ANNs/Lecture_15-ANNs.ipynb"> Lecture 15 - Artificial Neural Networks with Keras-TensorFlow</a>
 * <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_16-ConvNets/Lecture_16-ConvNets.ipynb"> Lecture 16 - Convolutional Neural Networks with Keras-TensorFlow</a>
 * <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_17-Model_Selection/Lecture_17-Model_Selection.ipynb"> Lecture 17 - Model Selection, Hyperparameter Tuning</a>
-* Lecture 18 - Artificial Neural Networks with PyTorch
+* <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_18-NNs_with_PyTorch/Lecture_18-NNs_with_PyTorch.ipynb"> Lecture 18 - Artificial Neural Networks with PyTorch</a>
 * Lecture 19 - Natural Language Processing
 * Lecture 20 - Transformer Networks
 * Lecture 21 - NLP with Hugging Face
