@@ -54,9 +54,9 @@ Semester: Fall 2024 (August 19 – December 13)
 * <a href="docs/Lectures/Tutorials/Tutorial_7-Image_Processing/Tutorial_7-Image_Processing.ipynb">Tutorial 7 - Image Processing with Python</a>
 * <a href="docs/Lectures/Tutorials/Tutorial_8-TensorFlow/Tutorial_8-TensorFlow.ipynb">Tutorial 8 - TensorFlow</a>
 * <a href="docs/Lectures/Tutorials/Tutorial_9-PyTorch/Tutorial_9-PyTorch.ipynb">Tutorial 9 - PyTorch</a>
-* Tutorial 10 - Introduction to Bash Programming
-* Tutorial 11 - Experiment Monitoring with CometML
-* Tutorial 12 - GitHub
+* <a href="docs/Lectures/Tutorials/Tutorial_10-Bash/Tutorial_10-Bash.ipynb">Tutorial 10 - Introduction to Bash Programming</a>
+* Tutorial 11 - GitHub
+* Tutorial 12 - Experiment Monitoring with CometML
 * Tutorial 13 - GitHub Actions
 
 ## Course Description
