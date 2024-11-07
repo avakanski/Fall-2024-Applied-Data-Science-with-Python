@@ -36,15 +36,14 @@ Semester: Fall 2024 (August 19 – December 13)
 * <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_17-Model_Selection/Lecture_17-Model_Selection.ipynb"> Lecture 17 - Model Selection, Hyperparameter Tuning</a>
 * <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_18-NNs_with_PyTorch/Lecture_18-NNs_with_PyTorch.ipynb"> Lecture 18 - Artificial Neural Networks with PyTorch</a>
 * <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_19-Natural_Language_Processing/Lecture_19-NLP.ipynb"> Lecture 19 - Natural Language Processing</a>
-* Lecture 20 - Transformer Networks
+* <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_20-Transformer_Networks/Lecture_20-Transformer_Networks.ipynb"> Lecture 20 - Transformer Networks</a>
 * Lecture 21 - NLP with Hugging Face
-* Lecture 22 - Diffusion Models for Text-to-Image Generation
-* Lecture 23 - Large Language Models
+* Lecture 22 - Large Language Models
 ## Theme 4: Model Deployment Pipelines
-* Lecture 24 - Introduction to Data Science Operations (DSOps)
-* Lecture 25 - Deploying Projects as Web Applications
-* Lecture 26 - Deploying Projects to the Cloud
-* Lecture 27 - Reproducible Data Science Projects
+* Lecture 23 - Introduction to Data Science Operations (DSOps)
+* Lecture 24 - Deploying Projects as Web Applications
+* Lecture 25 - Deploying Projects to the Cloud
+* Lecture 26 - Reproducible Data Science Projects
 ## Tutorials
 * <a href="docs/Lectures/Tutorials/Tutorial_1-Jupyter_Notebooks/Tutorial_1-Jupyter_Notebooks.ipynb">Tutorial 1 - Jupyter Notebooks</a>
 * <a href="docs/Lectures/Tutorials/Tutorial_2-Terminal_and_Command_Line/Tutorial_2-Terminal_and_Command_Line.ipynb">Tutorial 2 - Terminal and Command Line</a>
