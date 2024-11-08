@@ -3,7 +3,7 @@
 
 Instructor: [Alex Vakanski](https://www.webpages.uidaho.edu/vakanski/index.html) (vakanski@uidaho.edu)
 
-Teaching Assistant: to be announced 
+Teaching Assistant: Longze Li (li8975@vandals.uidaho.edu)
 
 Semester: Fall 2024 (August 19 – December 13)
 
