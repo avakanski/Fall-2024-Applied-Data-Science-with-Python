@@ -3,7 +3,7 @@ CS 488/588 – Applied Data Science with Python
 
 | `University of Idaho <https://www.uidaho.edu>`_ - `Department of Computer Science <https://www.uidaho.edu/engr/departments/cs>`_
 | Instructor: `Alex Vakanski <https://www.webpages.uidaho.edu/vakanski/index.html>`_ (vakanski@uidaho.edu)
-| Teaching Assistant: to be announced
+| Teaching Assistant: Longze Li (li8975@vandals.uidaho.edu)
 | Semester: Fall 2024 (August 19 – December 13)
 | *Course website*: https://fall-2024-applied-data-science-with-python.readthedocs.io/en/latest/
 | *GitHub repository*: https://www.github.com/avakanski/Fall-2024-Applied-Data-Science-with-Python/blob/main/README.md
