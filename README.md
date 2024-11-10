@@ -37,7 +37,7 @@ Semester: Fall 2024 (August 19 – December 13)
 * <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_18-NNs_with_PyTorch/Lecture_18-NNs_with_PyTorch.ipynb"> Lecture 18 - Artificial Neural Networks with PyTorch</a>
 * <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_19-Natural_Language_Processing/Lecture_19-NLP.ipynb"> Lecture 19 - Natural Language Processing</a>
 * <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_20-Transformer_Networks/Lecture_20-Transformer_Networks.ipynb"> Lecture 20 - Transformer Networks</a>
-* Lecture 21 - NLP with Hugging Face
+* <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_21-NLP_with_Hugging_Face/Lecture_21-NLP_with_Hugging_Face.ipynb"> Lecture 21 - NLP with Hugging Face</a>
 * Lecture 22 - Large Language Models
 ## Theme 4: Model Deployment Pipelines
 * Lecture 23 - Introduction to Data Science Operations (DSOps)
