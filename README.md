@@ -43,7 +43,6 @@ Semester: Fall 2024 (August 19 – December 13)
 * Lecture 23 - Introduction to Data Science Operations (DSOps)
 * Lecture 24 - Deploying Projects as Web Applications
 * Lecture 25 - Deploying Projects to the Cloud
-* Lecture 26 - Reproducible Data Science Projects
 ## Tutorials
 * <a href="docs/Lectures/Tutorials/Tutorial_1-Jupyter_Notebooks/Tutorial_1-Jupyter_Notebooks.ipynb">Tutorial 1 - Jupyter Notebooks</a>
 * <a href="docs/Lectures/Tutorials/Tutorial_2-Terminal_and_Command_Line/Tutorial_2-Terminal_and_Command_Line.ipynb">Tutorial 2 - Terminal and Command Line</a>
