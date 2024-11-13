@@ -39,7 +39,6 @@ Semester: Fall 2024 (August 19 – December 13)
 * <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_20-Transformer_Networks/Lecture_20-Transformer_Networks.ipynb"> Lecture 20 - Transformer Networks</a>
 * <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_21-NLP_with_Hugging_Face/Lecture_21-NLP_with_Hugging_Face.ipynb"> Lecture 21 - NLP with Hugging Face</a>
 * <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_22-LLMs/Lecture_22-LLMs.ipynb">  Lecture 22 - Large Language Models</a>
-* Lecture 22 - Large Language Models
 ## Theme 4: Model Deployment Pipelines
 * Lecture 23 - Introduction to Data Science Operations (DSOps)
 * Lecture 24 - Deploying Projects as Web Applications
