@@ -101,6 +101,7 @@ Lectures
    Lectures/Tutorials/Tutorial_8-TensorFlow/Tutorial_8-TensorFlow.ipynb
    Lectures/Tutorials/Tutorial_9-PyTorch/Tutorial_9-PyTorch.ipynb
    Lectures/Tutorials/Tutorial_10-Bash/Tutorial_10-Bash.ipynb
+   Lectures/Tutorials/Tutorial_11-GitHub/Tutorial_11-GitHub.ipynb
 
 
 The lectures will be added during the Fall 2024 semester after they are covered in the course.
