@@ -88,6 +88,12 @@ Lectures
    Lectures/Theme_3-Model_Engineering/Lecture_22-LLMs/Lecture_22-LLMs.ipynb
 
 .. toctree::
+   :caption: Theme 4 - Model Deployment Pipelines
+   :maxdepth: 2
+
+   Lectures/Theme_4-Model_Deployment/Lecture_24-Deploying_to_Web/Lecture_24-Deploying_to_Web.ipynb
+
+.. toctree::
    :caption: Tutorials
    :maxdepth: 2
 
@@ -102,16 +108,3 @@ Lectures
    Lectures/Tutorials/Tutorial_9-PyTorch/Tutorial_9-PyTorch.ipynb
    Lectures/Tutorials/Tutorial_10-Bash/Tutorial_10-Bash.ipynb
    Lectures/Tutorials/Tutorial_11-GitHub/Tutorial_11-GitHub.ipynb
-
-
-The lectures will be added during the Fall 2024 semester after they are covered in the course.
-
-
-
-  
-
-
-
-
-
-
