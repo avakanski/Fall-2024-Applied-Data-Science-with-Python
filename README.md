@@ -41,7 +41,7 @@ Semester: Fall 2024 (August 19 – December 13)
 * <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_22-LLMs/Lecture_22-LLMs.ipynb">  Lecture 22 - Large Language Models</a>
 ## Theme 4: Model Deployment Pipelines
 * Lecture 23 - Introduction to Data Science Operations (DSOps)
-* Lecture 24 - Deploying Projects as Web Applications
+* <a href="docs/Lectures/Theme_3-Model_Deplyment/Lecture_24-Deploying_to_Web/Lecture_24-Deploying_to_Web.ipynb"> Lecture 24 - Deploying Projects as Web Applications</a>
 * Lecture 25 - Deploying Projects to the Cloud
 ## Tutorials
 * <a href="docs/Lectures/Tutorials/Tutorial_1-Jupyter_Notebooks/Tutorial_1-Jupyter_Notebooks.ipynb">Tutorial 1 - Jupyter Notebooks</a>
