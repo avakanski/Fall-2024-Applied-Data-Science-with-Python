@@ -91,6 +91,7 @@ Lectures
    :caption: Theme 4 - Model Deployment Pipelines
    :maxdepth: 2
 
+   Lectures/Theme_4-Model_Deployment/Lecture_23-DSOps/Lecture_23-DSOps.pdf
    Lectures/Theme_4-Model_Deployment/Lecture_24-Deploying_to_Web/Lecture_24-Deploying_to_Web.ipynb
 
 .. toctree::
