@@ -40,7 +40,6 @@ Semester: Fall 2024 (August 19 – December 13)
 * <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_21-NLP_with_Hugging_Face/Lecture_21-NLP_with_Hugging_Face.ipynb"> Lecture 21 - NLP with Hugging Face</a>
 * <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_22-LLMs/Lecture_22-LLMs.ipynb">  Lecture 22 - Large Language Models</a>
 ## Theme 4: Model Deployment Pipelines
-* Lecture 23 - Introduction to Data Science Operations (DSOps)
 * <a href="docs/Lectures/Theme_4-Model_Deployment/Lecture_23-DSOps/Lecture_23-DSOps.pdf"> Lecture 23 - Introduction to Data Science Operations (DSOps)</a>
 * <a href="docs/Lectures/Theme_4-Model_Deployment/Lecture_24-Deploying_to_Web/Lecture_24-Deploying_to_Web.ipynb"> Lecture 24 - Deploying Projects as Web Applications</a>
 * Lecture 25 - Deploying Projects to the Cloud
