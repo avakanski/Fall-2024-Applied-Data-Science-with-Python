@@ -93,6 +93,7 @@ Lectures
 
    pdf_link_lecture23
    Lectures/Theme_4-Model_Deployment/Lecture_24-Deploying_to_Web/Lecture_24-Deploying_to_Web.ipynb
+   Lectures/Theme_4-Model_Deployment/Lecture_25-Deploying_to_Cloud/Lecture_25-Deploying_to_Cloud.ipynb
 
 .. toctree::
    :caption: Tutorials
