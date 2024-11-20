@@ -42,7 +42,7 @@ Semester: Fall 2024 (August 19 – December 13)
 ## Theme 4: Model Deployment Pipelines
 * <a href="docs/Lectures/Theme_4-Model_Deployment/Lecture_23-DSOps/Lecture_23-DSOps.pdf"> Lecture 23 - Introduction to Data Science Operations (DSOps)</a>
 * <a href="docs/Lectures/Theme_4-Model_Deployment/Lecture_24-Deploying_to_Web/Lecture_24-Deploying_to_Web.ipynb"> Lecture 24 - Deploying Projects as Web Applications</a>
-* Lecture 25 - Deploying Projects to the Cloud
+* <a href="docs/Lectures/Theme_4-Model_Deployment/Lecture_25-Deploying_to_Cloud/Lecture_25-Deploying_to_Cloud.ipynb"> Lecture 25 - Deploying Projects to the Cloud</a>
 ## Tutorials
 * <a href="docs/Lectures/Tutorials/Tutorial_1-Jupyter_Notebooks/Tutorial_1-Jupyter_Notebooks.ipynb">Tutorial 1 - Jupyter Notebooks</a>
 * <a href="docs/Lectures/Tutorials/Tutorial_2-Terminal_and_Command_Line/Tutorial_2-Terminal_and_Command_Line.ipynb">Tutorial 2 - Terminal and Command Line</a>
