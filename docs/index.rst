@@ -110,3 +110,4 @@ Lectures
    Lectures/Tutorials/Tutorial_9-PyTorch/Tutorial_9-PyTorch.ipynb
    Lectures/Tutorials/Tutorial_10-Bash/Tutorial_10-Bash.ipynb
    Lectures/Tutorials/Tutorial_11-GitHub/Tutorial_11-GitHub.ipynb
+   Lectures/Tutorials/Tutorial_12-TensorFlow_Serving/Tutorial_12-TensorFlow_Serving.ipynb
